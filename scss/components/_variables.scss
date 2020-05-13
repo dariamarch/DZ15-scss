@@ -1,0 +1,46 @@
+// Переменные цветов
+
+$gray: #999;
+$blue: #007bff;
+$dark-blue: #0069d9;
+$green: #28a745;
+$dark-green: #218838;
+$red: #f00;
+$yellow: #ff0;
+
+$black: #000;
+$white: #fff;
+
+$page-color: #3a454d;
+$gr: #4e5a62;
+$dark-gr: #292f36;
+$decor-text: none;
+$uptext: uppercase;
+
+$base-font-sans-serif: 'Roboto', sans-serif;
+$base-font-serif: 'Times New Roman', 'Times', 'Baskerville', 'Georgia', serif;
+
+// Основной размер и цвет текста, семейство шрифта и цвет фона
+$base-text-color: $white;
+$base-background-color: $page-color;
+$font-size-base: 16px;
+$line-height-base: 1.5;
+$base-font-family: $base-font-sans-serif !default;
+
+$base-min-width: 320px;
+
+// Цвет глобальной ссылки
+$base-link-color: $blue;
+
+// Формы
+$form-element-border-color: $gray;
+$form-element-focus-border-color: $black;
+$placeholder-color: $gray;
+
+// Переменные font-size для заголовков
+$h1-font-size: 40px;
+$h2-font-size: 36px;
+$h3-font-size: 28px;
+$h4-font-size: 22px;
+$h5-font-size: 16px;
+$h6-font-size: 14px;
